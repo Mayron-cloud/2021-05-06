@@ -7,6 +7,7 @@
 <title>trabalho git <title>
 </head>
 <body>
-<h1> olá mundo </h1>
+<h1> aluno: Mayron</h1>
+<h1>professor: Gabriel</h1>
 </body>
 <html>
